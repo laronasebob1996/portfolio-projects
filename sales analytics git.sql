@@ -1,0 +1,21 @@
+--CREATE TABLE hr_sales_analytics (
+--    id INT PRIMARY KEY,
+--    employee_name VARCHAR(255),
+--    sales_date DATE,
+--    sales_amount DECIMAL(10, 2),
+--    sales_region VARCHAR(50)
+--);
+--INSERT INTO hr_sales_analytics  VALUES 
+--       (2, 'Jane Doe', '2023-03-23', 1200.00, 'West Coast'),
+--       (3, 'Mark Johnson', '2023-03-21', 2500.75, 'Midwest'),
+--       (4, 'Samantha Lee', '2023-03-20', 1800.25, 'East Coast'),
+--       (5, 'David Kim', '2023-03-18', 900.50, 'West Coast'),
+--       (6, 'Emily Chen', '2023-03-16', 5000.00, 'Midwest'),
+--       (7, 'Daniel Lee', '2023-03-15', 3500.00, 'East Coast'),
+--       (8, 'Cynthia Wong', '2023-03-14', 2700.75, 'West Coast'),
+--       (9, 'Alex Nguyen', '2023-03-12', 4000.25, 'Midwest'),
+--       (10, 'Linda Liu', '2023-03-10', 1500.00, 'East Coast')
+	   
+--	   SELECT employee_name, id, sales_amount
+--FROM hr_sales_analytics
+
